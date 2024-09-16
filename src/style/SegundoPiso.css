@@ -1,0 +1,36 @@
+.contenedor-principal {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px; /* Espacio entre los cuadraditos */
+    
+}
+
+
+.clase1 {
+    width: 240px;
+    height: 200px;
+    background-color: #3498db;
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    text-align: center; /* Centra el texto si es multilinea */
+    color: white; /* Cambia el color del texto si es necesario */
+}
+.deposito {
+    height: 100px;
+}
+.recibidor-relaciones {
+    width: 120px;
+    
+}
+.prueba3 {
+    width: 120px;
+    
+}
+.minicontenedor {
+    display: flex;
+    flex-wrap: wrap;
+}
+.componente3 {
+    width: 155px;
+}

@@ -1,0 +1,73 @@
+.contenedor-principal {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px; /* Espacio entre los cuadraditos */
+    
+}
+.clase1 {
+    width: 240px;
+    height: 200px;
+    background-color: #3498db;
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; /* Centra verticalmente */
+    text-align: center; /* Centra el texto si es multilinea */
+    color: white; /* Cambia el color del texto si es necesario */
+}
+
+.informatica {
+   height: 130px;
+}
+
+.deuda-social {
+    width: 150px;
+}
+
+.escalafon {
+    width: 135px;
+}
+
+.pagaduria {
+    width: 99px;
+}
+.nexus {
+    width: 150px;
+}
+.deposito-informatica {
+    width: 115px;
+}
+.deposito {
+    height: 75px;
+    width: 68px;
+}
+.null {
+    height: 125px;
+    width: 68px;
+}
+.deposito-2 {
+    height: 40px;
+}
+.convivencia {
+    height: 60px;
+}
+.estadistica {
+    height: 60px;
+}
+.null2 {
+    height: 40px;
+}
+.planificacion-siagie {
+    width: 120px;
+}
+
+.tesoreria {
+    position: absolute;
+    right: 10px; /* espacio entre el cuadrado y el borde derecho */
+  }
+
+.presupuesto-racionalizacion {
+    width: 120px;
+}
+.cpa {
+    width: 115px;
+}
